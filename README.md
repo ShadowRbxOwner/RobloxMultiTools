@@ -1,4 +1,4 @@
-https://discord.com/invite/toolerz
+Join discord server: https://discord.com/invite/toolerz
 
 
 This is a multitool for roblox
