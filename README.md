@@ -1,3 +1,6 @@
+https://discord.com/invite/toolerz
+
+
 This is a multitool for roblox
 1) Copy-Game
 2) Copy-Clothe
