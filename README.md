@@ -1,6 +1,5 @@
 Join discord server: https://discord.com/invite/toolerz
 
-
 This is a multitool for roblox
 1) Copy-Game
 2) Copy-Clothe
@@ -9,12 +8,7 @@ This is a multitool for roblox
 5) Roblox Fps Unlock
 
 
-
 Password: 2024
-
-How to install:
-1) You need download: https://www.python.org/
-2) Need download: pip install pyfiglet rich and pip3 install pyfiglet rich
 
 
 
